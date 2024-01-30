@@ -2,6 +2,7 @@
  ## Presentation
  This project will allow you to visualize many patterns that can be identified in the grid of Game Of Life.
  ## Prerequisites
+ You need Python 3.11  
  You to have windows-curses library, if not run :
  ```bash
     pip install windows-curses
