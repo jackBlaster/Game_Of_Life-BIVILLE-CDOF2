@@ -1,7 +1,7 @@
 import collections
 
-ALIVE = "♥"
-DEAD = "‧"
+ALIVE = "O"
+DEAD = "."
 
 class LifeGrid:
     def __init__(self, pattern):
