@@ -6,6 +6,7 @@
  ```bash
     pip install windows-curses
  ```
+## Running the project
  Place yourself in the directory of the project and run :
  ```bash
     python -m game_life -a
