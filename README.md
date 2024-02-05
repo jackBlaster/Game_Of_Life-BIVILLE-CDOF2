@@ -23,4 +23,5 @@ Welcome contributions to the Quiz Game! Please feel free to contribute. Here’s
 4. Commit your changes (git commit -am 'Add some feature').
 5. Push to the branch (git push origin feature-branch).
 6. Create a new Pull Request.
+
 Thanks for your contributions! It will make the Quiz Game more diverse and fun for everyone!
